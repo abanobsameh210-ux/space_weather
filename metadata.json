@@ -1,0 +1,5 @@
+{
+  "name": "Space Weather Interactive",
+  "description": "An interactive, animated web application that simulates a space weather event, from solar flares to the defense of Earth, providing an educational and engaging experience.",
+  "requestFramePermissions": []
+}
